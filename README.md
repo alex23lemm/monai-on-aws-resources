@@ -5,6 +5,7 @@ Below, you will find a list with all publicly available MONAI on AWS resources.
 ## MONAI on AWS blog posts
 
 * Share medical image research on Amazon SageMaker Studio Lab for free – Jan ’23: https://aws.amazon.com/blogs/machine-learning/share-medical-image-research-on-amazon-sagemaker-studio-lab-for-free/
+* Privacy-Preserving Federated Learning on AWS with NVIDIA FLARE & MONAI - Nov '22: https://aws.amazon.com/blogs/apn/privacy-preserving-federated-learning-on-aws-with-nvidia-flare/
 * Scalable Medical Computer Vision Model Training with Amazon SageMaker Part 2 – July ‘22: https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2/
 * Scalable Medical Computer Vision Model Training with Amazon SageMaker Part 1 – July ‘22: https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-1/
 * Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker – June ’21: https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/
@@ -21,7 +22,8 @@ Below, you will find a list with all publicly available MONAI on AWS resources.
 
 ## MONAI on AWS conference talks 
 
-* MONAI Bootcamp 2023 - MONAI Deploy on AWS - 38min: https://youtu.be/ALuHhMYuWFk 
+* MONAI Bootcamp 2023 - MONAI Deploy on AWS - 38min: https://youtu.be/ALuHhMYuWFk
+* MONAI Bootcamp 2023 - MONAI & FLARE on AWS - 48min : https://youtu.be/U8nOHPulZvQ 
 * GTC 2022 - Accelerate Your Medical Imaging Research with MONAI on AWS – 40min: https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42397/
 
 ## MONAI datasets on the AWS Registry of Open Data
