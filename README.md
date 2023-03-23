@@ -1,4 +1,4 @@
-# MONAI on AWS resources
+# MONAI and FLARE on AWS resources
 
 Below, you will find a list with all publicly available MONAI on AWS resources.
 
@@ -11,9 +11,10 @@ Below, you will find a list with all publicly available MONAI on AWS resources.
 * Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker – June ’21: https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/
 * Build a medical image analysis pipeline on Amazon SageMaker using the MONAI framework – Dec’ 20: https://aws.amazon.com/blogs/industries/build-a-medical-image-analysis-pipeline-on-amazon-sagemaker-using-the-monai-framework/
 
-## MONAI on AWS workshops
+## MONAI and FLARE on AWS workshops
 
 * Self-service or instructor-led workshop focused on running 1/ MONAI Label and 3D Slicer on Amazon AppStream and 2/ MONAI Core on SageMaker: https://catalog.us-east-1.prod.workshops.aws/workshops/ff6964ec-b880-45d4-bc1e-468b0c7fa854/en-US/
+* NVIDIA FLARE on AWS for Federated Learning: https://catalog.workshops.aws/nvflareonaws/en-US
 
 ## MONAI on AWS GitHub tutortials
 
