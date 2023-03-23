@@ -19,6 +19,7 @@ Below, you will find a list with all publicly available MONAI on AWS resources.
 
 * End-to-end MONAI Core on SageMaker example using the HAM10000 dermatoscopy skin cancer image dataset: https://github.com/aws-samples/amazon-sagemaker-monai-examples
 * 2D/3D classification & segmentation MONAI tutorials ported to SageMaker: https://github.com/aws-samples/amazon-sagemaker-medical-imaging-with-monai
+* MONAI Deploy Express automated deployment on AWS: https://github.com/Project-MONAI/monai-deploy/tree/main/deploy/monai-deploy-express/platforms/AWS
 
 ## MONAI on AWS conference talks 
 
