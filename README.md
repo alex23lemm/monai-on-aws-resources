@@ -27,6 +27,7 @@ Below, you will find a list with all publicly available MONAI on AWS resources.
 
 * MONAI Bootcamp 2023 - MONAI Deploy on AWS - 38min: https://youtu.be/ALuHhMYuWFk
 * MONAI Bootcamp 2023 - MONAI & FLARE on AWS - 48min : https://youtu.be/U8nOHPulZvQ 
+* MONAI Label Workshop - Project Week 38 - 1h:54min (with two use cases on AWS from Kantonspital Graubünden and the NSW Telestroke Team: https://www.youtube.com/watch?v=KtPE8m0LvcQ&t
 * GTC 2022 - Accelerate Your Medical Imaging Research with MONAI on AWS – 40min: https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42397/
 
 ## MONAI datasets on the AWS Registry of Open Data
