@@ -4,6 +4,7 @@ Below, you will find a list with all publicly available MONAI on AWS resources.
 
 ## MONAI on AWS blog posts
 
+* AI-Assisted Annotation of Medical Images using MONAI Label on AWS - May '23: https://aws.amazon.com/blogs/industries/ai-assisted-annotation-of-medical-images-using-monai-label-on-aws/
 * Share medical image research on Amazon SageMaker Studio Lab for free – Jan ’23: https://aws.amazon.com/blogs/machine-learning/share-medical-image-research-on-amazon-sagemaker-studio-lab-for-free/
 * Privacy-Preserving Federated Learning on AWS with NVIDIA FLARE & MONAI - Nov '22: https://aws.amazon.com/blogs/apn/privacy-preserving-federated-learning-on-aws-with-nvidia-flare/
 * Scalable Medical Computer Vision Model Training with Amazon SageMaker Part 2 – July ‘22: https://aws.amazon.com/blogs/industries/scalable-medical-computer-vision-model-training-with-amazon-sagemaker-part-2/
